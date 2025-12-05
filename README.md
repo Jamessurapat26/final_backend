@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend API
+# 🛒 Basic E-Commerce Backend API
 
 A RESTful API backend for an e-commerce application built with **Node.js**, **Express.js**, and **MongoDB**. Features JWT authentication, role-based access control, and comprehensive CRUD operations.
 
@@ -239,10 +239,5 @@ curl -X POST http://localhost:5000/orders \
 
 **James Surapat** - [@Jamessurapat26](https://github.com/Jamessurapat26)
 
-Project Link: [https://github.com/Jamessurapat26/final_backend](https://github.com/Jamessurapat26/final_backend)
+Project Link: [https://github.com/Jamessurapat26/final_backend](https://github.com/Jamessurapat26/basic-ecommerce-api)
 
----
-
-## 📄 License
-
-This project is licensed under the ISC License.
